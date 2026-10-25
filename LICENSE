@@ -1,0 +1,13 @@
+KSP OPT Spaceplane（含 Legacy 与 Reconfig） 简体中文补丁 —— 许可
+KSP OPT Spaceplane（含 Legacy 与 Reconfig） Simplified Chinese Patch — License
+
+本仓库只包含翻译文本（.cfg / .json），不包含任何原模组的模型、纹理、代码或配置。
+This repository contains translation text only. It contains no assets from the original mod.
+
+本仓库包含多个模组的翻译，各自适用原模组的许可：
+
+  - OPT Spaceplane、OPT Legacy：CC BY-NC-SA 4.0（署名 + 非商业 + 同协议）
+  - OPT Reconfig：MIT
+
+各 .cfg 文件对应关系见 README 表格。
+See the README table for which file maps to which mod.
